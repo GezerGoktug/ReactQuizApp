@@ -7,7 +7,7 @@ const Home = ({ setModal }) => {
     <div>
       <Card>
         <QuizStartContent>
-          <img src="public/img/quiz.png" />
+          <img src="img/quiz.png" />
           <h1>Welcome to the quiz!</h1>
           <p>
             Welcome to our quiz application. You have 20 questions and 8
